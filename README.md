@@ -19,7 +19,7 @@ https://github.com/singsingsing3/my_face_screen_humanity/assets/120327265/c3e0d8
 https://github.com/singsingsing3/my_face_screen_humanity/assets/120327265/c9efa1f8-1ea9-4504-bfb7-fa46c3ad91d6
 
 ## Limitations
-- Can't detect own face well
+- Can't detect own face well (It's hard to detect if the face is close or shows the side)
 - White line is not sure (Poor animated effect)
 - Face recognition box is not persistent and disconnected
 
