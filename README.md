@@ -4,7 +4,9 @@ my face has become screen humanity!(called in Korean '인간극장')
 ## what is the 'screen humanity? (called in Korean '인간극장')
 - It's a very famous Korean documentary TV show.
 - It is famous for opening video with white line and black background so I was inspired on this.
-- real screen humanity opening image is here.(for your understanding) 
+- real screen humanity opening image is here.(for your understanding)
+
+  
 ![screen_humanity](https://github.com/singsingsing3/my_face_screen_humanity/assets/120327265/d748fac7-58df-4a39-9eec-8e0495e38ea6)
 
 ## Function
